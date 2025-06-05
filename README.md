@@ -75,8 +75,8 @@ Criamos um projeto no [Observable HQ](https://observablehq.com) utilizando **Veg
 
 ## 📎 Acesse
 
-🔗 Visualização completa no Observable: [link para o projeto Observable]([https://observablehq.com/...](https://observablehq.com/d/63b7de6259bf5fee))  
-📁 Repositório com os dados e scripts: [link para o repositório GitHub]([https://github.com/...](https://github.com/vitorsantanajv/projeto_indice_de_felicidade))
+🔗 Visualização completa no Observable: https://observablehq.com/d/63b7de6259bf5fee 
+📁 Repositório com os dados e scripts: https://github.com/vitorsantanajv/projeto_indice_de_felicidade
 
 ---
 
