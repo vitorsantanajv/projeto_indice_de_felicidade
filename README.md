@@ -80,4 +80,5 @@ Criamos um projeto no [Observable HQ](https://observablehq.com) utilizando **Veg
 
 ---
 
-> Projeto acadêmico desenvolvido na disciplina de Ciência de Dados.
+> Projeto acadêmico desenvolvido na disciplina de **Framework Back-end - Noite**, do curso da **UNINASSAU Campina Grande - Paraíba**, sob orientação do professor **Daniel Marques**.
+
